@@ -128,4 +128,5 @@ This tool is built for **educational purposes** as part of a data science bootca
 
 ## 👤 Author
 
-Built for the **Nafath Bootcamp 2026 — DS & AI Track**.
+- @Ahad0052 
+- @malak-gith
