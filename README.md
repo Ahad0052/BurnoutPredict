@@ -128,5 +128,5 @@ This tool is built for **educational purposes** as part of a data science bootca
 
 ## 👤 Author
 
-- @Ahad0052 
-- @malak-gith
+- [@Ahad0052](https://github.com/Ahad0052)
+- [@malak-gith](https://github.com/malak-gith)
